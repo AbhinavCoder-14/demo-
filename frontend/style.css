@@ -54,14 +54,14 @@ header {
 }
 
 .donate-btn:hover{
-  background: rgba(0, 0, 0, 0.1) url("/T-hacks_Enlighten_learn//frontend/images/donation.png") center center/cover;
+  background: rgba(0, 0, 0, 0.1) url("frontend/images/donation.png") center center/cover;
 
 }
 
 
 
 .donate-btn {
-  background: rgba(0, 0, 0, 0.4) url("/T-hacks_Enlighten_learn//frontend/images/donation.png") center center/cover;
+  background: rgba(0, 0, 0, 0.4) url("frontend/images/donation.png") center center/cover;
 }
 nav {
   width: 100%;
